@@ -1,0 +1,5 @@
+{
+  "description": "A secure interface for exploring unsealed public records from the Epstein archives, including search, download, and AI-assisted analysis.",
+  "requestFramePermissions": [],
+  "name": "Epstein Archive Explorer"
+}
